@@ -6,8 +6,7 @@ from dotenv import load_dotenv
 
 from utils.b2 import B2
 from utils.modeling import *
-
-
+#resetted to working state
 # ------------------------------------------------------
 #                      APP CONSTANTS
 # ------------------------------------------------------
